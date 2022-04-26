@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alert with wait</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a372b6c6-047c-424d-a5fd-b0ca28f4ef56</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eb9d7db4-1eb9-435f-b288-5b2fd50115de</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('letcode/alert_btn')</defaultValue>
+      <description></description>
+      <id>eb9d7db4-1eb9-435f-b288-5b2fd50115de</id>
+      <masked>false</masked>
+      <name>alert_btn</name>
+   </variable>
+</TestCaseEntity>

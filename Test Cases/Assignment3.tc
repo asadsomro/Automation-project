@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Assignment3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04b09da0-6b23-40de-99ac-2b7b449484ad</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('Page_Filling Out Forms  Ultimate QA/name')</defaultValue>
+      <description></description>
+      <id>65302b98-b7f9-4495-bd47-1309d58c4450</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Page_Filling Out Forms  Ultimate QA/btn_facebook')</defaultValue>
+      <description></description>
+      <id>64d066cf-97e5-4144-b6ef-ce8e4122ebe7</id>
+      <masked>false</masked>
+      <name>btn_facebook</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Page_Filling Out Forms  Ultimate QA/btn_twitter')</defaultValue>
+      <description></description>
+      <id>ee262e7e-4f4c-4c99-98cd-1bb2d6c37948</id>
+      <masked>false</masked>
+      <name>btn_twitter</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Page_Filling Out Forms  Ultimate QA/btn_linkedin')</defaultValue>
+      <description></description>
+      <id>7baaf6f5-88ff-4457-bcb1-66c123f7b46b</id>
+      <masked>false</masked>
+      <name>btn_linkedin</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Page_Filling Out Forms  Ultimate QA/text_name')</defaultValue>
+      <description></description>
+      <id>8c6dd431-4e92-431b-b29a-ab6fbbee9e83</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Page_Filling Out Forms  Ultimate QA/button_Submit')</defaultValue>
+      <description></description>
+      <id>a4eba847-b656-4a2c-a1b6-0cc2bf43ca13</id>
+      <masked>false</masked>
+      <name>submit</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Page_Filling Out Forms  Ultimate QA/message_name_text')</defaultValue>
+      <description></description>
+      <id>ff88dae5-a92d-4d5e-ae87-7ab40f3e594e</id>
+      <masked>false</masked>
+      <name>msg_nameText</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Page_Filling Out Forms  Ultimate QA/message_msg_text')</defaultValue>
+      <description></description>
+      <id>5f3e5f49-9f7a-452b-a613-b7db25ba3fc9</id>
+      <masked>false</masked>
+      <name>msg_messageText</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Page_Filling Out Forms  Ultimate QA/thanks_for_contact')</defaultValue>
+      <description></description>
+      <id>122abd49-952c-44a3-9110-8ea24e0658c9</id>
+      <masked>false</masked>
+      <name>msg_thanksForContact</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4a9d977d-dd35-47dd-87df-8cfdc2286993</id>
+      <masked>false</masked>
+      <name>text_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5749baf0-327b-4b1a-9049-641cd234e442</id>
+      <masked>false</masked>
+      <name>text_message</name>
+   </variable>
+</TestCaseEntity>

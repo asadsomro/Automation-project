@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "12913A82CA38B7879CE12A7D7F70B14B",
+  "keywordClasses": [
+    {
+      "name": "com.test.demo.customFunctions",
+      "keywordMethods": [
+        {
+          "name": "main",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

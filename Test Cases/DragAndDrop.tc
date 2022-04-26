@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DragAndDrop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6cdc3e8-ba94-4808-9b6b-7728a2075f46</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f3d2d0fb-9e4e-413f-bb21-ac4576d4f696</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b970ef12-0524-4193-a0cd-088bb029d0a9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc7c47e9-47a5-4de8-8cc8-aacc63634711</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('letcode/simple alert button')</defaultValue>
+      <description></description>
+      <id>f3d2d0fb-9e4e-413f-bb21-ac4576d4f696</id>
+      <masked>false</masked>
+      <name>simple</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('drgdrp/Page_Droppable  jQuery UI/source')</defaultValue>
+      <description></description>
+      <id>b970ef12-0524-4193-a0cd-088bb029d0a9</id>
+      <masked>false</masked>
+      <name>dragobj</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('drop/Page_Droppable  jQuery UI/div_Drop here')</defaultValue>
+      <description></description>
+      <id>cc7c47e9-47a5-4de8-8cc8-aacc63634711</id>
+      <masked>false</masked>
+      <name>dropobj</name>
+   </variable>
+</TestCaseEntity>

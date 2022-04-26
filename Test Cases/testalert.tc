@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testalert</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>101c02ce-3d6d-4f0e-b53d-6273cd2e2229</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6b113eff-6083-431a-873a-095040def8cd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8306e11-95fa-4bde-9833-d9db1a0ed429</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b578fe5c-ff59-4128-8a00-1ef02b6804ec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('letcode/simple alert button')</defaultValue>
+      <description></description>
+      <id>6b113eff-6083-431a-873a-095040def8cd</id>
+      <masked>false</masked>
+      <name>simple_alert_btn</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('letcode/confirm alert')</defaultValue>
+      <description></description>
+      <id>b8306e11-95fa-4bde-9833-d9db1a0ed429</id>
+      <masked>false</masked>
+      <name>cnfm_alert</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('letcode/prompt alert')</defaultValue>
+      <description></description>
+      <id>b578fe5c-ff59-4128-8a00-1ef02b6804ec</id>
+      <masked>false</masked>
+      <name>prompt_alert</name>
+   </variable>
+</TestCaseEntity>

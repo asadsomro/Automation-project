@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bea8230a-4b55-4349-9fa1-35c2cd314f93</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4eb93a20-d7e0-4c29-8059-9e01a67608fd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90e57755-4f14-4f00-881b-2406d24b2b75</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>77f16c3c-afa0-4cf1-ab53-95f705ec8638</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab6b7682-81af-4b59-96c1-a0da8b4a2522</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Assignment_3_part3/todays deals')</defaultValue>
+      <description></description>
+      <id>4eb93a20-d7e0-4c29-8059-9e01a67608fd</id>
+      <masked>false</masked>
+      <name>tdeals_link</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Assignment_3_part3/home checkbox')</defaultValue>
+      <description></description>
+      <id>90e57755-4f14-4f00-881b-2406d24b2b75</id>
+      <masked>false</masked>
+      <name>home_checkbox</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Assignment_3_part3/Toast')</defaultValue>
+      <description></description>
+      <id>77f16c3c-afa0-4cf1-ab53-95f705ec8638</id>
+      <masked>false</masked>
+      <name>toast</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Assignment_3_part3/Amazon Logo')</defaultValue>
+      <description></description>
+      <id>ab6b7682-81af-4b59-96c1-a0da8b4a2522</id>
+      <masked>false</masked>
+      <name>logo</name>
+   </variable>
+</TestCaseEntity>

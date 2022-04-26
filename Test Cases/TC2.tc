@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5329116-a8ee-403a-8c91-89243d0b1aa8</testCaseGuid>
+   <variable>
+      <defaultValue>'https://ultimateqa.com/filling-out-forms/'</defaultValue>
+      <description></description>
+      <id>d0688c4b-588e-4d6b-8c50-28b419f8bd12</id>
+      <masked>false</masked>
+      <name>formurl</name>
+   </variable>
+</TestCaseEntity>

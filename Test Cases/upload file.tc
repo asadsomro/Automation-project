@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>upload file</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>087f32e5-5c95-47bd-aa9d-5be687707f07</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc262991-beca-4fc4-8e94-772364d22bd5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('file upload/upload')</defaultValue>
+      <description></description>
+      <id>bc262991-beca-4fc4-8e94-772364d22bd5</id>
+      <masked>false</masked>
+      <name>upload</name>
+   </variable>
+</TestCaseEntity>

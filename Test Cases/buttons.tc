@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>buttons</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5fca4c8-9679-4278-8fb3-5ddd33a2e697</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9a1cf42-e904-465f-8f88-07aff60c37a3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>43d63f07-3842-4e01-b5d4-daf6ae272f4e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de7a3682-e23a-4d7c-b4c1-88f2b7e0d639</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fd847835-9492-483b-b024-3aef1e8359dd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ec2c510d-ef5b-4c1b-b338-cc29e6908d55</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60f46e34-c9e0-43d4-aed8-58d5d9e83c4b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('buttons page objects/disbaled button')</defaultValue>
+      <description></description>
+      <id>c9a1cf42-e904-465f-8f88-07aff60c37a3</id>
+      <masked>false</masked>
+      <name>disabled_btn</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('buttons page objects/find location button')</defaultValue>
+      <description></description>
+      <id>43d63f07-3842-4e01-b5d4-daf6ae272f4e</id>
+      <masked>false</masked>
+      <name>find_loc_button</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('buttons page objects/goto home button')</defaultValue>
+      <description></description>
+      <id>de7a3682-e23a-4d7c-b4c1-88f2b7e0d639</id>
+      <masked>false</masked>
+      <name>goto_home_btn</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('buttons page objects/how tall and fat button')</defaultValue>
+      <description></description>
+      <id>fd847835-9492-483b-b024-3aef1e8359dd</id>
+      <masked>false</masked>
+      <name>green_btn</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('buttons page objects/long press button')</defaultValue>
+      <description></description>
+      <id>ec2c510d-ef5b-4c1b-b338-cc29e6908d55</id>
+      <masked>false</masked>
+      <name>longpress_btn</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('buttons page objects/what is my color button')</defaultValue>
+      <description></description>
+      <id>60f46e34-c9e0-43d4-aed8-58d5d9e83c4b</id>
+      <masked>false</masked>
+      <name>color_btn</name>
+   </variable>
+</TestCaseEntity>

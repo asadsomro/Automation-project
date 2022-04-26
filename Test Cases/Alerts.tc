@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alerts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e04c7297-bf0b-45ed-b01a-0752b5a3c80c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3edc2272-0f0e-4a0d-a7f3-fe0e3f457a3e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Alerts/Simple alert')</defaultValue>
+      <description></description>
+      <id>3edc2272-0f0e-4a0d-a7f3-fe0e3f457a3e</id>
+      <masked>false</masked>
+      <name>test</name>
+   </variable>
+</TestCaseEntity>

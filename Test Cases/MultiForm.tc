@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MultiForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca7c699e-f545-4c4d-9f05-8a6adc1c3f23</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3742f4ee-138f-480b-b81f-987868c2d6fe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fecb8a4a-0f0e-407a-9176-feb5d89c4486</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e6905525-3810-458a-8bbb-f89825847b3a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>54695e26-26c2-4b38-ac35-3af22e4b48f3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0ddcd9ec-00f1-4178-93ec-8446ccad6625</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Multi Form/fullname')</defaultValue>
+      <description></description>
+      <id>3742f4ee-138f-480b-b81f-987868c2d6fe</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Multi Form/2 append')</defaultValue>
+      <description></description>
+      <id>fecb8a4a-0f0e-407a-9176-feb5d89c4486</id>
+      <masked>false</masked>
+      <name>appendtxt</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Multi Form/3 get attribute')</defaultValue>
+      <description></description>
+      <id>e6905525-3810-458a-8bbb-f89825847b3a</id>
+      <masked>false</masked>
+      <name>getattribute</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Multi Form/clear text')</defaultValue>
+      <description></description>
+      <id>54695e26-26c2-4b38-ac35-3af22e4b48f3</id>
+      <masked>false</masked>
+      <name>clrtxt</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Multi Form/disable field')</defaultValue>
+      <description></description>
+      <id>0ddcd9ec-00f1-4178-93ec-8446ccad6625</id>
+      <masked>false</masked>
+      <name>disbaled</name>
+   </variable>
+</TestCaseEntity>

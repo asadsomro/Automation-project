@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Simple Login (Custom Keyword)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40bb6e7d-f0b6-4a72-a272-dea775ff3f05</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('Swag Labs/username')</defaultValue>
+      <description></description>
+      <id>b4ad0b84-ad7d-4af0-a876-6028538cd219</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Swag Labs/password')</defaultValue>
+      <description></description>
+      <id>ecfab9d5-3d27-4400-aef1-98518a04ff9c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Swag Labs/login_btn')</defaultValue>
+      <description></description>
+      <id>2105bf5f-cf80-4152-805c-10f68683a886</id>
+      <masked>false</masked>
+      <name>login_btn</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Swag Labs/burger_menu')</defaultValue>
+      <description></description>
+      <id>6c4ffaf9-0dbb-4f6f-9e77-7c00c05ab51a</id>
+      <masked>false</masked>
+      <name>burger_menu</name>
+   </variable>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>0744c647-e73c-4786-9faf-f1cdc91aa8c0</id>
+      <masked>false</masked>
+      <name>usr</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>b4c9abc5-b6d1-451b-ac92-38386197832d</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Swag Labs/logout')</defaultValue>
+      <description></description>
+      <id>a9443343-d80d-4b6b-b38d-cead7a238029</id>
+      <masked>false</masked>
+      <name>logout</name>
+   </variable>
+</TestCaseEntity>
