@@ -60,5 +60,5 @@ Actions actions = new Actions(driver)
 
 actions.clickAndHold(obj).build().perform()
 
-//WebUI.closeBrowser()
+WebUI.closeBrowser()
 
